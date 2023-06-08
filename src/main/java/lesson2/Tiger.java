@@ -9,4 +9,8 @@ public class Tiger {
         System.out.println("Тигр спит.");
         weight = weight - 1;
     }
+
+    public static void printInfo() {
+        System.out.println("Это класс Tiger");
+    }
 }
